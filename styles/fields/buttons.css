@@ -1,7 +1,7 @@
 button {
   all: unset;
   font-weight: 500;
-  color: var(--text-highlight);
+  color: var(--text-hightlight);
   padding: .75rem 1.5rem;
   border-radius: .5rem;
   cursor: pointer;
@@ -18,7 +18,7 @@ button {
 
   &.btn-secondary {
       margin-left: auto;
-      border: 1px solid var(--text-highlight);
+      border: 1px solid var(--text-hightlight);
 
       &:hover,
       &:focus {
